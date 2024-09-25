@@ -1,6 +1,6 @@
 
 
-const DEEPGRAM_API_KEY = "821c0eec780e14b4a9ad32a3e0722f0de4736890"; // Replace with your actual API key
+const DEEPGRAM_API_KEY = "";
 
 export default async (req, res) => {
   if (req.method === 'POST') {

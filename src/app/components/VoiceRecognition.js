@@ -6,7 +6,7 @@ import MicOffIcon from "@mui/icons-material/MicOff";
 import PauseIcon from "@mui/icons-material/Pause";
 import PlayArrowIcon from "@mui/icons-material/PlayArrow";
 
-const deepgramApiKey = "2a95ca7c94c17eb5f79f1e0de098cdf080012f5c";
+const deepgramApiKey = "";
 const deepgramUrl = "wss://api.deepgram.com/v1/listen";
 
 const VoiceRecognition = () => {
